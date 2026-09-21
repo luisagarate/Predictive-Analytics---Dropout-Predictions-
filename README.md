@@ -53,6 +53,11 @@ The following preprocessing steps were completed:
 ---
 
 ## Descriptive Statistics
+![Student Demographics](Research%20Proposal%20Presentation.png)
+
+![Socioeconomic Factors](Research%20Proposal%20Presentation%20(1).png)
+
+![Academic Factors](Research%20Proposal%20Presentation%20(2).png)
 
 ## Indirect Variable Logistic Regression
 
@@ -98,6 +103,7 @@ The decision tree suggests that demographic and socioeconomic factors are the st
 - Gender
 - Debtor status
 
+![Macroeconomic Factors](Research%20Proposal%20Presentation%20(3).png)
 ---
 
 ## Prediction Models
