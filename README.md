@@ -1,7 +1,5 @@
 # Predictive-Analytics---Dropout-Predictions-
 
-# Predicting Student Dropout in Higher Education
-
 ## Why This Project?
 
 Universities should care about their dropout rates because:
