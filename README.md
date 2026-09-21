@@ -163,4 +163,6 @@ The logistic regression model identifies **75 currently enrolled students** at h
 - Intervene before students drop out
 - Continue accounting for indirect variables
 
+Note:
 
+This project was a group effort by Adhiti Chandramohan, Preme Chinpattanakul, Luisa Garate, Yuxi (Nancy) Shao
